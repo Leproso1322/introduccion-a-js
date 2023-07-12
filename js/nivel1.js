@@ -40,12 +40,16 @@
 
 // Tarea: Ahora te toca a vos! Acá abajo escribí una alerta que diga "Hola mundo!"
 
+// alert('Hola Mundo!');
+
 
 // Tarea: Una vez que la alerta funcione, comentala poniendo '//' en la línea donde está el código y guardá los cambios.
 // Una vez que recargás la página, ya no debería aparecer más.
 
 
 // Tarea: Ahora probá hacer un console.log de un mensaje que queramos.
+
+console.log('Vamos NOB')
 
 
 // Consejo: Para recargar el navegador podemos apretar 'CMD + R' en Mac y 'CTRL + R' en
@@ -101,6 +105,9 @@
 */
 
 // TAREA: Creá 2 variables indefinidas, llamadas numeroUno y numeroDos.
+
+// let numeroUno
+// let numeroDos
 
 
 /*
